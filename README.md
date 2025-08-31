@@ -1,2 +1,2 @@
-# DEBER-SEMANA-10
+# DEBER-SEMANAs
 Deber y Proyectos de la Universidad Estatal Amazónica
